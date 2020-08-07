@@ -1,0 +1,27 @@
+{
+  "name": "@kurosame/eslint-config-nuxt",
+  "version": "1.0.0",
+  "description": "ESLint config for Nuxt.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://kurosame@github.com/kurosame/eslint-config-nuxt.git"
+  },
+  "keywords": [
+    "kurosame",
+    "eslint",
+    "config",
+    "nuxt"
+  ],
+  "author": "kurosame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurosame/eslint-config-nuxt/issues"
+  },
+  "homepage": "https://github.com/kurosame/eslint-config-nuxt#readme",
+  "dependencies": {
+    "@kurosame/eslint-config-vue": "^1.0.10",
+    "@nuxtjs/eslint-config-typescript": "^3.0.0",
+    "eslint-plugin-nuxt": "^1.0.0"
+  }
+}
