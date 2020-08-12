@@ -1,6 +1,6 @@
 {
   "name": "@kurosame/eslint-config-nuxt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint config for Nuxt.js",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/kurosame/eslint-config-nuxt#readme",
   "dependencies": {
-    "@kurosame/eslint-config-vue": "^1.0.10",
+    "@kurosame/eslint-config-vue": "^1.0.11",
     "@nuxtjs/eslint-config-typescript": "^3.0.0",
     "eslint-plugin-nuxt": "^1.0.0"
   }
