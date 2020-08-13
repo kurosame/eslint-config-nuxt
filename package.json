@@ -1,6 +1,6 @@
 {
   "name": "@kurosame/eslint-config-nuxt",
-  "version": "1.0.",
+  "version": "1.0.4",
   "description": "ESLint config for Nuxt.js",
   "main": "index.js",
   "repository": {
