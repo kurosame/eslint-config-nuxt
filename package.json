@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/kurosame/eslint-config-nuxt#readme",
   "dependencies": {
-    "@kurosame/eslint-config-vue": "1.0.12",
+    "@kurosame/eslint-config-vue": "1.0.13",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
     "eslint-plugin-nuxt": "2.0.0"
   }
